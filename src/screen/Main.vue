@@ -83,10 +83,10 @@ export default {
                 text-align: center;
             }
         }
-        div{
+        .img-area{
             width: 710px;
             height: 389px;
-            background: #212347;
+            background: url('../img/car.png') no-repeat;
             margin: 31px 0 11px;
         }
     }
