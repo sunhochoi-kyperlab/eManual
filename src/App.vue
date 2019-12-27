@@ -81,6 +81,7 @@ export default {
 </script>
 
 <style lang="scss">
+@import "styles/reset.css";
 
 @font-face {
   font-family:'NotoSansCJKkr-Regular';
